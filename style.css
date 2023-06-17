@@ -253,20 +253,6 @@ header {
 #book-card:hover #book-logo {
   color: #964d37;
 }
-@media (max-width: 1023px) {
-  #intro h2 {
-    font-size: 4em;
-  }
-  #intro h1 {
-    font-size: 40px;
-  }
-  .link {
-    font-size: 5em;
-  }
-  .links {
-    margin-top: 4em;
-  }
-}
 #contact {
   /* display: inline; */
   margin-top: 2em;
@@ -411,5 +397,132 @@ header {
   }
   #contact-me {
     margin-left: 16em;
+  }
+}
+@media (min-width: 1400px) and (max-width: 1600px) {
+  .logo {
+    font-size: 1.8em;
+  }
+  .navigation a {
+    font-size: 1em;
+  }
+  #intro h2 {
+    font-size: 1.8em;
+  }
+  #name {
+    font-size: 3em;
+  }
+  .links {
+    position: absolute;
+    right: 37%;
+    margin-top: 70px;
+  }
+  .link {
+    font-size: 2.7em;
+  }
+  #hobbies-title {
+    font-size: 2.4em;
+  }
+  #prog-title h1 {
+    font-size: 3.1em;
+    margin-bottom: 1.5em;
+  }
+  #prog-title h3 {
+    font-size: 2.2em;
+  }
+  #prog-langs .card {
+    width: 11em;
+    height: 11em;
+    text-align: center;
+    padding: 2.6em;
+    font-size: 1.8em;
+    align-items: center;
+  }
+  #and {
+    font-size: 2.7em;
+  }
+  #others .card {
+    width: 11em;
+    height: 11em;
+    text-align: center;
+    padding: 2.6em;
+    font-size: 1.8em;
+    align-items: center;
+  }
+  #others .card h2 {
+    font-size: 0.7em;
+  }
+
+  #contact p {
+    font-size: 1.3em;
+    margin: 30px 70px;
+  }
+  #contact-me {
+    margin-left: 13em;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1400px) {
+  .logo {
+    font-size: 1.3em;
+  }
+  header {
+    padding-right: 110px;
+  }
+  .navigation a {
+    font-size: 0.7em;
+  }
+  #intro h2 {
+    font-size: 1.2em;
+  }
+  #name {
+    font-size: 2em;
+  }
+  .links {
+    position: absolute;
+    right: 36%;
+    margin-top: 50px;
+  }
+  .link {
+    font-size: 2em;
+  }
+  #hobbies-title {
+    font-size: 2em;
+  }
+  #prog-title h1 {
+    font-size: 2.4em;
+    margin-bottom: 1.5em;
+  }
+  #prog-title h3 {
+    font-size: 1.9em;
+  }
+  #prog-langs .card {
+    width: 11em;
+    height: 11em;
+    text-align: center;
+    padding: 2.6em;
+    font-size: 1.4em;
+    align-items: center;
+  }
+  #and {
+    font-size: 1.9em;
+  }
+  #others .card {
+    width: 11em;
+    height: 11em;
+    text-align: center;
+    padding: 2.6em;
+    font-size: 1.4em;
+    align-items: center;
+  }
+  #others .card h2 {
+    font-size: 0.7em;
+  }
+
+  #contact p {
+    font-size: 0.8em;
+    margin: 10px 40px;
+  }
+  #contact-me {
+    margin-left: 13em;
   }
 }
