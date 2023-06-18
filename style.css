@@ -275,420 +275,7 @@ header {
   color: #343798;
   font-size: 1.3em;
 }
-@media (min-width: 2560px) {
-  .logo {
-    font-size: 4em;
-  }
-  .navigation a {
-    font-size: 1.8em;
-  }
-  #intro h2 {
-    font-size: 3.2em;
-  }
-  #name {
-    font-size: 4.4em;
-  }
-  .links {
-    position: absolute;
-    right: 39.3%;
-    margin-top: 100px;
-  }
-  .link {
-    font-size: 4.5em;
-  }
-  #hobbies-title {
-    font-size: 4em;
-  }
-  #prog-title h1 {
-    font-size: 4.2em;
-    margin-bottom: 1.5em;
-  }
-  #prog-title h3 {
-    font-size: 3em;
-  }
-  #prog-langs .card {
-    width: 15em;
-    height: 15em;
-    text-align: center;
-    padding: 4em;
-    font-size: 2.7em;
-    align-items: center;
-  }
-  #and {
-    font-size: 3em;
-  }
-  #others .card {
-    width: 15em;
-    height: 15em;
-    text-align: center;
-    padding: 4em;
-    font-size: 2.7em;
-    align-items: center;
-  }
 
-  #eng-card {
-    font-size: 2.3em;
-  }
-  #contact p {
-    font-size: 3em;
-    margin: 30px 70px;
-  }
-  #contact-me {
-    margin-left: 17em;
-  }
-}
-@media (min-width: 1920px) and (max-width: 2560px) {
-  .logo {
-    font-size: 3.4em;
-  }
-  .navigation a {
-    font-size: 1.6em;
-  }
-  #intro h2 {
-    font-size: 3em;
-  }
-  #name {
-    font-size: 4.1em;
-  }
-  .links {
-    position: absolute;
-    right: 36.1%;
-    margin-top: 100px;
-  }
-  .link {
-    font-size: 4.2em;
-  }
-  #hobbies-title {
-    font-size: 3.4em;
-  }
-  #prog-title h1 {
-    font-size: 4em;
-    margin-bottom: 1.5em;
-  }
-  #prog-title h3 {
-    font-size: 2.7em;
-  }
-  #prog-langs .card {
-    width: 14em;
-    height: 14em;
-    text-align: center;
-    padding: 4em;
-    font-size: 2.2em;
-    align-items: center;
-  }
-  #and {
-    font-size: 2.7em;
-  }
-  #others .card {
-    width: 14em;
-    height: 14em;
-    text-align: center;
-    padding: 4em;
-    font-size: 2.2em;
-    align-items: center;
-  }
-  #others .card h2 {
-    font-size: 0.9em;
-  }
-
-  #contact p {
-    font-size: 2.1em;
-    margin: 30px 70px;
-  }
-  #contact-me {
-    margin-left: 16em;
-  }
-}
-@media (min-width: 1400px) and (max-width: 1600px) {
-  .logo {
-    font-size: 1.8em;
-  }
-  .navigation a {
-    font-size: 1em;
-  }
-  #intro h2 {
-    font-size: 1.8em;
-  }
-  #name {
-    font-size: 3em;
-  }
-  .links {
-    position: absolute;
-    right: 37%;
-    margin-top: 70px;
-  }
-  .link {
-    font-size: 2.7em;
-  }
-  #hobbies-title {
-    font-size: 2.4em;
-  }
-  #prog-title h1 {
-    font-size: 3.1em;
-    margin-bottom: 1.5em;
-  }
-  #prog-title h3 {
-    font-size: 2.2em;
-  }
-  #prog-langs .card {
-    width: 11em;
-    height: 11em;
-    text-align: center;
-    padding: 2.6em;
-    font-size: 1.8em;
-    align-items: center;
-  }
-  #and {
-    font-size: 2.7em;
-  }
-  #others .card {
-    width: 11em;
-    height: 11em;
-    text-align: center;
-    padding: 2.6em;
-    font-size: 1.8em;
-    align-items: center;
-  }
-  #others .card h2 {
-    font-size: 0.7em;
-  }
-
-  #contact p {
-    font-size: 1.3em;
-    margin: 30px 70px;
-  }
-  #contact-me {
-    margin-left: 13em;
-  }
-}
-@media (min-width: 1024px) and (max-width: 1400px) {
-  .logo {
-    font-size: 1.3em;
-  }
-  header {
-    padding-right: 110px;
-  }
-  .navigation a {
-    font-size: 0.7em;
-  }
-  #intro h2 {
-    font-size: 1.2em;
-  }
-  #name {
-    font-size: 2em;
-  }
-  .links {
-    position: absolute;
-    right: 35.5%;
-    margin-top: 50px;
-  }
-  .link {
-    font-size: 2em;
-  }
-  #hobbies-title {
-    font-size: 2em;
-  }
-  #prog-title h1 {
-    font-size: 2.4em;
-    margin-bottom: 1.5em;
-  }
-  #prog-title h3 {
-    font-size: 1.9em;
-  }
-  #prog-langs .card {
-    width: 11em;
-    height: 11em;
-    text-align: center;
-    padding: 2.6em;
-    font-size: 1.4em;
-    align-items: center;
-  }
-  #and {
-    font-size: 1.9em;
-  }
-  #others .card {
-    width: 11em;
-    height: 11em;
-    text-align: center;
-    padding: 2.6em;
-    font-size: 1.4em;
-    align-items: center;
-  }
-  #others .card h2 {
-    font-size: 0.7em;
-  }
-
-  #contact p {
-    font-size: 0.8em;
-    margin: 10px 40px;
-  }
-  #contact-me {
-    margin-left: 13em;
-  }
-}
-@media (min-width: 768px) and (max-width: 1024px) {
-  .logo {
-    font-size: 1.3em;
-  }
-  header {
-    padding-right: 110px;
-  }
-  .navigation a {
-    font-size: 0.7em;
-  }
-  #intro h2 {
-    font-size: 1.9em;
-  }
-  #name {
-    font-size: 3em;
-  }
-  .links {
-    position: absolute;
-    right: 26%;
-    margin-top: 50px;
-  }
-  .link {
-    font-size: 2.7em;
-  }
-  #hobbies-title {
-    font-size: 2em;
-  }
-  #prog-title h1 {
-    font-size: 2.4em;
-    margin-bottom: 1.5em;
-  }
-  #prog-title h3 {
-    font-size: 1.9em;
-  }
-  #prog-langs {
-    display: flex;
-    width: 100%;
-    align-items: center;
-    flex-direction: column;
-  }
-  #prog-langs .card {
-    width: 12em;
-    height: 12em;
-    text-align: center;
-    padding: 2.6em;
-    font-size: 1.7em;
-    align-items: center;
-  }
-  #and {
-    font-size: 1.9em;
-  }
-  #others {
-    display: flex;
-    width: 100%;
-    align-items: center;
-    flex-direction: column;
-  }
-  #others .card {
-    width: 12em;
-    height: 12em;
-    text-align: center;
-    padding: 2.6em;
-    font-size: 1.7em;
-    margin: 1em;
-    align-items: center;
-  }
-  #others .card h2 {
-    font-size: 0.9em;
-  }
-  #contact p {
-    font-size: 0.8em;
-    margin: 10px 20px;
-    height: 100%;
-  }
-  #contact-me {
-    margin-left: 8em;
-  }
-}
-@media (min-width: 480px) and (max-width: 768px) {
-  .logo {
-    font-size: 1.3em;
-  }
-  header {
-    padding-right: 30px;
-    padding-left: 30px;
-  }
-  .navigation a {
-    font-size: 0.7em;
-  }
-  #intro h2 {
-    font-size: 1.5em;
-  }
-  #name {
-    font-size: 2.3em;
-  }
-  .links {
-    position: absolute;
-    right: 22%;
-    margin-top: 50px;
-  }
-  .link {
-    font-size: 2em;
-  }
-  #hobbies-title {
-    font-size: 1.3em;
-  }
-  #prog-title h1 {
-    font-size: 1.7em;
-    margin-bottom: 1.5em;
-  }
-  #prog-title h3 {
-    font-size: 1.4em;
-  }
-  #prog-langs {
-    display: flex;
-    width: 100%;
-    align-items: center;
-    flex-direction: column;
-  }
-  #prog-langs .card {
-    width: 10em;
-    height: 10em;
-    text-align: center;
-    padding: 2.6em;
-    font-size: 1.7em;
-    align-items: center;
-  }
-  #js-card h2 {
-    font-size: 1em;
-  }
-  #and {
-    font-size: 1.1em;
-  }
-  #others {
-    display: flex;
-    width: 100%;
-    align-items: center;
-    flex-direction: column;
-  }
-  #others .card {
-    width: 10em;
-    height: 10em;
-    text-align: center;
-    padding: 2em;
-    font-size: 1.7em;
-    margin: 0.8em;
-    align-items: center;
-  }
-  #others .card h2 {
-    font-size: 0.7em;
-  }
-  #contact {
-    padding: 1em;
-  }
-  #contact p {
-    font-size: 0.6em;
-    margin: 10px 0px;
-    height: 100%;
-  }
-  #contact-me {
-    margin-left: 3em;
-  }
-}
 @media (min-width: 320px) and (max-width: 480px) {
   .logo {
     font-size: 1em;
@@ -781,5 +368,419 @@ header {
   }
   #contact-me {
     margin-left: 1em;
+  }
+}
+@media (min-width: 480px) and (max-width: 768px) {
+  .logo {
+    font-size: 1.3em;
+  }
+  header {
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+  .navigation a {
+    font-size: 0.7em;
+  }
+  #intro h2 {
+    font-size: 1.5em;
+  }
+  #name {
+    font-size: 2.3em;
+  }
+  .links {
+    position: absolute;
+    right: 22%;
+    margin-top: 50px;
+  }
+  .link {
+    font-size: 2em;
+  }
+  #hobbies-title {
+    font-size: 1.3em;
+  }
+  #prog-title h1 {
+    font-size: 1.7em;
+    margin-bottom: 1.5em;
+  }
+  #prog-title h3 {
+    font-size: 1.4em;
+  }
+  #prog-langs {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+  }
+  #prog-langs .card {
+    width: 10em;
+    height: 10em;
+    text-align: center;
+    padding: 2.6em;
+    font-size: 1.7em;
+    align-items: center;
+  }
+  #js-card h2 {
+    font-size: 1em;
+  }
+  #and {
+    font-size: 1.1em;
+  }
+  #others {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+  }
+  #others .card {
+    width: 10em;
+    height: 10em;
+    text-align: center;
+    padding: 2em;
+    font-size: 1.7em;
+    margin: 0.8em;
+    align-items: center;
+  }
+  #others .card h2 {
+    font-size: 0.7em;
+  }
+  #contact {
+    padding: 1em;
+  }
+  #contact p {
+    font-size: 0.6em;
+    margin: 10px 0px;
+    height: 100%;
+  }
+  #contact-me {
+    margin-left: 3em;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  .logo {
+    font-size: 1.3em;
+  }
+  header {
+    padding-right: 110px;
+  }
+  .navigation a {
+    font-size: 0.7em;
+  }
+  #intro h2 {
+    font-size: 1.9em;
+  }
+  #name {
+    font-size: 3em;
+  }
+  .links {
+    position: absolute;
+    right: 26%;
+    margin-top: 50px;
+  }
+  .link {
+    font-size: 2.7em;
+  }
+  #hobbies-title {
+    font-size: 2em;
+  }
+  #prog-title h1 {
+    font-size: 2.4em;
+    margin-bottom: 1.5em;
+  }
+  #prog-title h3 {
+    font-size: 1.9em;
+  }
+  #prog-langs {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+  }
+  #prog-langs .card {
+    width: 12em;
+    height: 12em;
+    text-align: center;
+    padding: 2.6em;
+    font-size: 1.7em;
+    align-items: center;
+  }
+  #and {
+    font-size: 1.9em;
+  }
+  #others {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+  }
+  #others .card {
+    width: 12em;
+    height: 12em;
+    text-align: center;
+    padding: 2.6em;
+    font-size: 1.7em;
+    margin: 1em;
+    align-items: center;
+  }
+  #others .card h2 {
+    font-size: 0.9em;
+  }
+  #contact p {
+    font-size: 0.8em;
+    margin: 10px 20px;
+    height: 100%;
+  }
+  #contact-me {
+    margin-left: 8em;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1400px) {
+  .logo {
+    font-size: 1.3em;
+  }
+  header {
+    padding-right: 110px;
+  }
+  .navigation a {
+    font-size: 0.7em;
+  }
+  #intro h2 {
+    font-size: 1.2em;
+  }
+  #name {
+    font-size: 2em;
+  }
+  .links {
+    position: absolute;
+    right: 35.5%;
+    margin-top: 50px;
+  }
+  .link {
+    font-size: 2em;
+  }
+  #hobbies-title {
+    font-size: 2em;
+  }
+  #prog-title h1 {
+    font-size: 2.4em;
+    margin-bottom: 1.5em;
+  }
+  #prog-title h3 {
+    font-size: 1.9em;
+  }
+  #prog-langs .card {
+    width: 11em;
+    height: 11em;
+    text-align: center;
+    padding: 2.6em;
+    font-size: 1.4em;
+    align-items: center;
+  }
+  #and {
+    font-size: 1.9em;
+  }
+  #others .card {
+    width: 11em;
+    height: 11em;
+    text-align: center;
+    padding: 2.6em;
+    font-size: 1.4em;
+    align-items: center;
+  }
+  #others .card h2 {
+    font-size: 0.7em;
+  }
+
+  #contact p {
+    font-size: 0.8em;
+    margin: 10px 40px;
+  }
+  #contact-me {
+    margin-left: 13em;
+  }
+}
+@media (min-width: 1400px) and (max-width: 1600px) {
+  .logo {
+    font-size: 1.8em;
+  }
+  .navigation a {
+    font-size: 1em;
+  }
+  #intro h2 {
+    font-size: 1.8em;
+  }
+  #name {
+    font-size: 3em;
+  }
+  .links {
+    position: absolute;
+    right: 37%;
+    margin-top: 70px;
+  }
+  .link {
+    font-size: 2.7em;
+  }
+  #hobbies-title {
+    font-size: 2.4em;
+  }
+  #prog-title h1 {
+    font-size: 3.1em;
+    margin-bottom: 1.5em;
+  }
+  #prog-title h3 {
+    font-size: 2.2em;
+  }
+  #prog-langs .card {
+    width: 11em;
+    height: 11em;
+    text-align: center;
+    padding: 2.6em;
+    font-size: 1.8em;
+    align-items: center;
+  }
+  #and {
+    font-size: 2.7em;
+  }
+  #others .card {
+    width: 11em;
+    height: 11em;
+    text-align: center;
+    padding: 2.6em;
+    font-size: 1.8em;
+    align-items: center;
+  }
+  #others .card h2 {
+    font-size: 0.7em;
+  }
+
+  #contact p {
+    font-size: 1.3em;
+    margin: 30px 70px;
+  }
+  #contact-me {
+    margin-left: 13em;
+  }
+}
+@media (min-width: 1920px) and (max-width: 2560px) {
+  .logo {
+    font-size: 3.4em;
+  }
+  .navigation a {
+    font-size: 1.6em;
+  }
+  #intro h2 {
+    font-size: 3em;
+  }
+  #name {
+    font-size: 4.1em;
+  }
+  .links {
+    position: absolute;
+    right: 36.1%;
+    margin-top: 100px;
+  }
+  .link {
+    font-size: 4.2em;
+  }
+  #hobbies-title {
+    font-size: 3.4em;
+  }
+  #prog-title h1 {
+    font-size: 4em;
+    margin-bottom: 1.5em;
+  }
+  #prog-title h3 {
+    font-size: 2.7em;
+  }
+  #prog-langs .card {
+    width: 14em;
+    height: 14em;
+    text-align: center;
+    padding: 4em;
+    font-size: 2.2em;
+    align-items: center;
+  }
+  #and {
+    font-size: 2.7em;
+  }
+  #others .card {
+    width: 14em;
+    height: 14em;
+    text-align: center;
+    padding: 4em;
+    font-size: 2.2em;
+    align-items: center;
+  }
+  #others .card h2 {
+    font-size: 0.9em;
+  }
+
+  #contact p {
+    font-size: 2.1em;
+    margin: 30px 70px;
+  }
+  #contact-me {
+    margin-left: 16em;
+  }
+}
+@media (min-width: 2560px) {
+  .logo {
+    font-size: 4em;
+  }
+  .navigation a {
+    font-size: 1.8em;
+  }
+  #intro h2 {
+    font-size: 3.2em;
+  }
+  #name {
+    font-size: 4.4em;
+  }
+  .links {
+    position: absolute;
+    right: 39.3%;
+    margin-top: 100px;
+  }
+  .link {
+    font-size: 4.5em;
+  }
+  #hobbies-title {
+    font-size: 4em;
+  }
+  #prog-title h1 {
+    font-size: 4.2em;
+    margin-bottom: 1.5em;
+  }
+  #prog-title h3 {
+    font-size: 3em;
+  }
+  #prog-langs .card {
+    width: 15em;
+    height: 15em;
+    text-align: center;
+    padding: 4em;
+    font-size: 2.7em;
+    align-items: center;
+  }
+  #and {
+    font-size: 3em;
+  }
+  #others .card {
+    width: 15em;
+    height: 15em;
+    text-align: center;
+    padding: 4em;
+    font-size: 2.7em;
+    align-items: center;
+  }
+
+  #eng-card {
+    font-size: 2.3em;
+  }
+  #contact p {
+    font-size: 3em;
+    margin: 30px 70px;
+  }
+  #contact-me {
+    margin-left: 17em;
   }
 }
